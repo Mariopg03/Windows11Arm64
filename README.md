@@ -8,3 +8,5 @@ Currently the version only has the English translation, but it is fully function
 
 In order to use the product, it is necessary to download the file with the .iso extension and perform the installation.
 To be able to create a flash drive I recommend using the rufus program.
+
+https://moderbord.com/nota/933/windows-11-ya-esta-disponible-te-decimos-como-descargarlo![image](https://github.com/Mariopg03/Windows11Arm64/assets/46244100/6d6e9b30-1288-455c-a1b6-95a4308a4a9d)
