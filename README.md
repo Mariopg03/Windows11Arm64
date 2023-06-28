@@ -9,3 +9,6 @@ Currently the version only has the English translation, but it is fully function
 In order to use the product, it is necessary to download the file with the .iso extension and perform the installation.
 To be able to create a flash drive I recommend using the rufus program.
 
+
+The download is available at the following link:
+https://drive.google.com/file/d/1L4OMrp13DXpxe3UquTbvG7BgySg8nkpJ/view?usp=share_link
